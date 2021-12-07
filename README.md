@@ -3,7 +3,45 @@
 ---
 
 ### My skills
-devicons/devicon/icons/html5/html5-original-wordmark.svg
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
+#### Game development
+<i class="devicon-unity-original colored"></i>
+<i class="devicon-csharp-plain colored"></i>
+
+#### Web development
+<i class="devicon-html5-plain colored"></i>
+<i class="devicon-css3-plain colored"></i>
+<i class="devicon-javascript-plain colored"></i>
+<i class="devicon-threejs-original colored"></i>
+
+#### Node.js
+<i class="devicon-nodejs-plain colored"></i>
+<i class="devicon-express-original colored"></i>
+<i class="devicon-mongodb-plain colored"></i>
+
+#### Git technology
+<i class="devicon-git-plain colored"></i>
+<i class="devicon-github-original colored"></i>
+<i class="devicon-sourcetree-original colored"></i>
+
+#### Popular frameworks
+<i class="devicon-firebase-plain colored"></i>
+<i class="devicon-react-original colored"></i>
+
+#### Multiplatform technologies
+<i class="devicon-docker-plain colored"></i>
+<i class="devicon-dotnetcore-plain colored"></i>
+<i class="devicon-java-plain colored"></i>
+<i class="devicon-android-plain colored"></i>
+<i class="devicon-linux-plain colored"></i>
+<i class="devicon-raspberrypi-line colored"></i>
+
+#### Development environments
+<i class="devicon-visualstudio-plain colored"></i>
+<i class="devicon-vscode-plain colored"></i>
+<i class="devicon-trello-plain colored"></i>
+<i class="devicon-inkscape-plain colored"></i>
 
 
 ---
