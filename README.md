@@ -1,8 +1,7 @@
 👋 Hi, I’m @Chicken112,
 
----
-
-### My skills
+<details>
+  <summary>My detailed skills</summary>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 #### Game development
@@ -65,9 +64,7 @@
 <i class="devicon-vscode-plain colored"></i>
 <i class="devicon-trello-plain colored"></i>
 <i class="devicon-inkscape-plain colored"></i>
-
-
----
+</details>
 
 ### Stats
 
